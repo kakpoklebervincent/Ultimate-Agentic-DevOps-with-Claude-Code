@@ -1,0 +1,2 @@
+- [Portfolio infra gaps](project_portfolio_infra_gaps.md) — IAM/OIDC role not in Terraform, hardcoded ARNs in deploy.yml, region mismatch (ap-south-1 vs eu-north-1)
+- [Security audit checklist](security_audit_checklist.md) — standing S3/CloudFront/IAM/backend checklist and severity conventions for this repo's audits
